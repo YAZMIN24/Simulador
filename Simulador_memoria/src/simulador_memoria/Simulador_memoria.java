@@ -48,7 +48,7 @@ public class Simulador_memoria extends JFrame{
         panelIzquierdo.add(etiquetaInfo);
        
         panelIzquierdo.setLayout(new BoxLayout(panelIzquierdo,BoxLayout.X_AXIS));
-        panelIzquierdo.setBackground(Color.green);
+        panelIzquierdo.setBackground(Color.orange);
     }
     
     /*public void construyePanelCentro(){
